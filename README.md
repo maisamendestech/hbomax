@@ -51,12 +51,14 @@ Recursos CSS presentes no projeto:
 
 <h2 id="demo">💻 Demonstração</h2>
 
-Você pode acessar ao resultado final do projeto [clicando aqui](https://micheleambrosio.github.io/hbomax/).
+👩‍🏫 Você pode acessar ao resultado final do projeto da professora [clicando aqui](https://micheleambrosio.github.io/hbomax/).
+
+👩‍🎓 Você pode acessar ao resultado final do projeto da professora [clicando aqui](https://maisamendestech.github.io/hbomax/).
 
 
 <h2 id="author">👩‍💻 Autora (colaborativa)</h2>
 <p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/maisa-mendes"/>
+    <img align=left margin=10 width=80 src="./assets/images/fotoperfil-maisa.png"/>
     <p>&nbsp&nbsp&nbspMaisa Mendes Santana<br>
     &nbsp;<a href="https://www.linkedin.com/in/maisa-mendes-1316a3394/"></a></p>
 </p>
